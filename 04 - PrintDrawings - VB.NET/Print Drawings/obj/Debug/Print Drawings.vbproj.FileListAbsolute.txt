@@ -1,0 +1,43 @@
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\Print Drawings.exe.config
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Interop.EdmLib.dll
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Print Drawings.vbproj.ResolveComReference.cache
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Print Drawings.exe
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Print Drawings.xml
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Print Drawings.pdb
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Interop.EModelView.dll
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\AxInterop.EModelView.dll
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Gala.Filter.resources
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Gala.ListPartNumberExceptions.resources
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Gala.ListPartNumbers.resources
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Gala.Resources.resources
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Gala.Options.resources
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Gala.Print_Drawings.resources
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\obj\Debug\Print Drawings.vbproj.GenerateResource.Cache
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\Print Drawings.exe
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\Print Drawings.pdb
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\Print Drawings.xml
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\Interop.EdmLib.dll
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\Interop.EModelView.dll
+C:\Users\dadams\Documents\Visual Studio 2010\Projects\PrintDrawings\Print Drawings\bin\Debug\AxInterop.EModelView.dll
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\Print Drawings.exe.config
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\Print Drawings.exe
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\Print Drawings.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\Print Drawings.xml
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\eDrawingHostControl.dll
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\EPDM.Interop.epdm.dll
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\eDrawingHostControl.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\Debug\eDrawingHostControl.dll.config
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.vbprojAssemblyReference.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.vbproj.ResolveComReference.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Gala.Filter.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Gala.Print_Drawings.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Gala.ListPartNumberExceptions.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Gala.ListPartNumbers.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Gala.Resources.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Gala.Options.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.vbproj.GenerateResource.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.vbproj.CoreCompileInputs.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.vbproj.CopyComplete
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.exe
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.xml
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\Debug\Print Drawings.pdb

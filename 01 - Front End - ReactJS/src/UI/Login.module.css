@@ -1,0 +1,68 @@
+.bg {
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.login-bg {
+  display: block;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: auto;
+  text-align: center;
+  height: calc(100vh - 85px);
+  min-height: 240px;
+}
+
+.dd-logo {
+  width: 150px;
+  padding-top: 20px;
+}
+
+.dd-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.error {
+  color: red;
+  font-size: small;
+  font-style: italic;
+}
+
+@media screen and (max-width: 500px) {
+  .dd-logo {
+    padding-top: 100px;
+  }
+
+  .dd-title {
+    margin: 20px;
+  }
+
+  .login-bg {
+    height: calc(100vh - 130px);
+    min-height: 350px;
+  }
+}
+
+@media screen and (min-width: 720px) {
+  .dd-logo {
+    width: 300px;
+    padding-top: 80px;
+  }
+
+  .dd-title {
+    margin: 20px;
+  }
+
+  .login-bg {
+    width: 30rem;
+    height: calc(100vh - 35px);
+  }
+}

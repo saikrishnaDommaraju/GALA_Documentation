@@ -1,0 +1,18 @@
+main {
+  height: inherit;
+}
+
+.docdiv {
+  width:90%
+}
+
+.subheading{
+  font-weight:bold;
+  font-size: 16px;
+}
+
+@media screen and (min-width: 500px) {
+  .docdiv {
+    width:70%
+  } 
+}

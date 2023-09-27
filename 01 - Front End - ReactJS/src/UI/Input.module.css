@@ -1,0 +1,61 @@
+.inp {
+  border-radius: 0.25rem;
+  padding: 0.375px 0.75rem;
+  border: 1px solid #ccc;
+  height: calc(1.5em + 0.75rem + 2px);
+  outline: none;
+  transition: box-shadow 0.2s ease-out;
+  width: 100%;
+}
+
+textarea.inp {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 13px;
+  padding: 6px;
+}
+
+.inp:hover,
+.inp:focus,
+.inp:active {
+  box-shadow: 0px 0px 2px 2px #007bff;
+}
+
+.inline {
+  width: 60%;
+}
+
+.form-control {
+  margin: 1rem;
+}
+
+.form-control label {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+}
+
+.btn {
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: #dd7c05;
+  border-color: #dd7c05;
+  padding: 3px;
+  padding: 0.5rem 1rem;
+  margin: 2px;
+  cursor: pointer;
+  font-weight: bold;
+  outline: none;
+}
+
+.notifBadge {
+  display: inline-block;
+  margin-left: 10px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 10px;
+  min-width: 20px;
+  height: 20px;
+  padding: 4px 2px 2px 0px;
+}

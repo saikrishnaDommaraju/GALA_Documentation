@@ -1,0 +1,15 @@
+.roleList, .wcList {
+  margin: 0;
+  padding: 0;
+}
+
+.roleList li {
+  list-style-type: none;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.wcList li {
+  list-style-type: none;
+  margin-bottom: 5px;
+}

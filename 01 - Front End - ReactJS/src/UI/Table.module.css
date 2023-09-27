@@ -1,0 +1,45 @@
+.rTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.rTable thead {
+  background-color: #fbb601;
+  text-align: left;
+}
+
+.rTable thead th {
+  padding: 8px;
+}
+
+.rTable td {
+  margin: 0;
+  padding: 4px;
+}
+
+.rTable tr {
+  border-bottom: 1px solid #454d55;
+}
+
+.rTable tr.noBorder {
+  border-bottom: 0;
+}
+
+.rTable .selectable {
+  cursor: pointer;
+}
+
+.rTable .active {
+  background: #00ffb8;
+}
+
+.rTable .childDesc {
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+  font-style: italic;
+  font-size: smaller;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

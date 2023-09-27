@@ -1,0 +1,24 @@
+.sd-question_description_custom,
+.sd-panel_description_custom {
+  color: #6e6e6e;
+  padding-left: 10px;
+  font-style: oblique;
+}
+
+.subtitle {
+  color: #6e6e6e;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.sv-container-modern__title {
+  padding-top: 0px;
+}
+
+.sv--navigation-block {
+  margin: 10px;
+}
+
+.sv-hidden {
+  display: none;
+}

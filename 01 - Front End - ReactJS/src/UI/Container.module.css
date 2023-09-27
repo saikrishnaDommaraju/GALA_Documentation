@@ -1,0 +1,20 @@
+.container {
+  width: 95%;
+  margin: auto;
+  animation: fade-in 500ms ease-out forwards;
+}
+
+@media screen and (min-width: 720px) {
+  .container {
+    width: 95%;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

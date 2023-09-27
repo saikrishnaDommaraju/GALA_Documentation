@@ -1,0 +1,23 @@
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\Print Drawings.exe.config
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\Print Drawings.exe
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\Print Drawings.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\Print Drawings.xml
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\eDrawingHostControl.dll
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\eDrawingHostControl.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\eDrawingHostControl.dll.config
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.vbproj.ResolveComReference.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Gala.Filter.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Gala.Print_Drawings.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Gala.ListPartNumberExceptions.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Gala.ListPartNumbers.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Gala.Resources.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Gala.Options.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.vbproj.GenerateResource.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.vbproj.CoreCompileInputs.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.vbproj.CopyComplete
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.exe
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.xml
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Debug\EPDM.Interop.epdm.dll
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Print Drawings.vbprojAssemblyReference.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Debug\Interop.EModelView.dll

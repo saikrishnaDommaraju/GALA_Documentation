@@ -1,0 +1,17 @@
+.footer {
+  background: #fff2cc;
+  font-size: 12px;
+  padding: 10px;
+  height: 35px;
+}
+
+.footer-left {
+  float: left;
+  width: 30%;
+}
+
+.footer-right {
+  float: right;
+  width: 70%;
+  text-align: right;
+}

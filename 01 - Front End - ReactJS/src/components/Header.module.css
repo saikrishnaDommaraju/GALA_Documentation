@@ -1,0 +1,59 @@
+.header {
+  background: #fff2cc;
+}
+
+.header_img {
+  margin: 10px;
+  width: 100px;
+  float: left;
+}
+
+.openNav {
+  font-size: 25px;
+  margin: 10px;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.nav-left {
+  float: right;
+  display: inline;
+  margin-bottom: 5px;
+  width: 220px;
+}
+
+.nav-right {
+  float: right;
+  font-size: 18px;
+  padding-bottom: 5px;
+}
+
+.nav-item {
+  color: #000;
+  margin-right: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav-item:hover {
+  color: #fbb601;
+}
+
+@media screen and (min-width: 600px) {
+  .header {
+    padding-bottom: 0rem;
+    height: 50px;
+  }
+
+  .nav-left {
+    float: left;
+    margin-top: 6px;
+    margin-left: 10px;
+    width: 300px;
+  }
+
+  .nav-right {
+    float: right;
+    margin-top: 0.7rem;
+  }
+}

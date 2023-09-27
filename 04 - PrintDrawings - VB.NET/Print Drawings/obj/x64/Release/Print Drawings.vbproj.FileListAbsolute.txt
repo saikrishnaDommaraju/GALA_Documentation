@@ -1,0 +1,21 @@
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\Print Drawings.exe.config
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\Print Drawings.exe
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\Print Drawings.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\Print Drawings.xml
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.vbproj.ResolveComReference.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Gala.Filter.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Gala.Print_Drawings.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Gala.ListPartNumberExceptions.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Gala.ListPartNumbers.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Gala.Resources.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Gala.Options.resources
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.vbproj.GenerateResource.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.vbproj.CoreCompileInputs.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.exe
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.xml
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.vbprojAssemblyReference.cache
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\eDrawingHostControl.dll
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\eDrawingHostControl.pdb
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\bin\x64\Release\eDrawingHostControl.dll.config
+C:\VB\PrintDrawings\Print Drawings\Print Drawings\obj\x64\Release\Print Drawings.vbproj.CopyComplete

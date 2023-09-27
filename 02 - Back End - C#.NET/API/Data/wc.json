@@ -1,0 +1,130 @@
+[
+	{
+		"tla": "CRT",
+		"name": "Crating"
+	},
+	{
+		"tla": "DAS",
+		"name": "Dryer Assembly"
+	},
+	{
+		"tla": "DFA",
+		"name": "Dryer Assembly Foam"
+	},
+	{
+		"tla": "DOC",
+		"name": "Documentation"
+	},
+	{
+		"tla": "EAS",
+		"name": "Electrical Assembly"
+	},
+	{
+		"tla": "EGV",
+		"name": "Engraving Area"
+	},
+	{
+		"tla": "FBF",
+		"name": "Fab Forming"
+	},
+	{
+		"tla": "FBM",
+		"name": "Fab Machining"
+	},
+	{
+		"tla": "FBS",
+		"name": "Fab Saw and Shear"
+	},
+	{
+		"tla": "LSR",
+		"name": "Laser"
+	},
+	{
+		"tla": "MAS",
+		"name": "Melt Line Assembly"
+	},
+	{
+		"tla": "MEC",
+		"name": "General Mechanical Asm"
+	},
+	{
+		"tla": "MG",
+		"name": "Material Gathering"
+	},
+	{
+		"tla": "OUT",
+		"name": "Outside Process"
+	},
+	{
+		"tla": "PEN",
+		"name": "Peener"
+	},
+	{
+		"tla": "PGM",
+		"name": "Programming"
+	},
+	{
+		"tla": "SCN",
+		"name": "Screen Fab and Asm"
+	},
+	{
+		"tla": "SPN",
+		"name": "Screen Fab Peening"
+	},
+	{
+		"tla": "SRT",
+		"name": "System Run Testing"
+	},
+	{
+		"tla": "TAS",
+		"name": "TWS Assembly"
+	},
+	{
+		"tla": "WDP",
+		"name": "Die Plate Welder"
+	},
+	{
+		"tla": "WLD",
+		"name": "Welding"
+	},
+	{
+		"tla": "WLP",
+		"name": "Pipe Welder Cutting"
+	},
+	{
+		"tla": "FAB",
+		"name": "Fabrication"
+	},
+	{
+		"tla": "WELD",
+		"name": "Welding"
+	},
+	{
+		"tla": "PIPEWELD",
+		"name": "Pipe Weld"
+	},
+	{
+		"tla": "PEENER",
+		"name": "Peener"
+	}
+	{
+		"tla": "MATGATHERINGFAB",
+		"name": "Material Gathering Fab"
+	},
+	{
+		"tla": "MATGATHERINGINV",
+		"name": "Material Gathering Inv"
+	},
+	{
+		"tla": "OUTPROCESSFAB",
+		"name": "Outside Process Fab"
+	},
+	{
+		"tla": "OUTPROCESSINV",
+		"name": "Outside Process Inv"
+	},
+	{
+		"tla": "CUST",
+		"name": "Customer BOM Asm"
+	}
+]
